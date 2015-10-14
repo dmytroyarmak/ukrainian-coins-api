@@ -6,16 +6,16 @@ describe('ukrainianCoinsApi', function() {
     expect(ukrainianCoinsApi).to.be.an('object');
   });
 
-  describe('#getСategoriess()', function () {
+  describe('#getСategories()', function () {
     it('should be a function', function() {
-      expect(ukrainianCoinsApi.getСategoriess).to.be.a('function');
+      expect(ukrainianCoinsApi.getСategories).to.be.a('function');
     });
 
     describe('when called', function() {
       var result;
 
       beforeEach(function() {
-        result = ukrainianCoinsApi.getСategoriess();
+        result = ukrainianCoinsApi.getСategories();
       });
 
       it('should return a promise', function() {
