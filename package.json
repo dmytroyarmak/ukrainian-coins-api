@@ -1,5 +1,5 @@
 {
-  "name": "ukrainian-commemorative-coins-api",
+  "name": "ukrainian-coins-api",
   "version": "0.0.1",
   "description": "Node.js library that provides access to a full list of Ukrainian commemorative coins from bank.gov.ua web-site",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/dmytroyarmak/ukrainian-commemorative-coins-api.git"
+    "url": "https://github.com/dmytroyarmak/ukrainian-coins-api.git"
   },
   "keywords": [
     "coins",
@@ -19,7 +19,7 @@
   "author": "Dmytro Yarmak <dmytroyarmak@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/dmytroyarmak/ukrainian-commemorative-coins-api/issues"
+    "url": "https://github.com/dmytroyarmak/ukrainian-coins-api/issues"
   },
   "homepage": "https://github.com/dmytroyarmak/ukrainian-commemorative-coins-api"
 }
