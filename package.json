@@ -4,7 +4,7 @@
   "description": "Node.js library that provides access to a full list of Ukrainian commemorative coins from bank.gov.ua web-site",
   "main": "index.js",
   "scripts": {
-    "test": "mocha"
+    "test": "mocha --reporter min"
   },
   "repository": {
     "type": "git",
