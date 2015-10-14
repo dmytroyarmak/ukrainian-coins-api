@@ -4,7 +4,7 @@
   "description": "Node.js library that provides access to a full list of Ukrainian commemorative coins from bank.gov.ua web-site",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha"
   },
   "repository": {
     "type": "git",
@@ -21,5 +21,9 @@
   "bugs": {
     "url": "https://github.com/dmytroyarmak/ukrainian-coins-api/issues"
   },
-  "homepage": "https://github.com/dmytroyarmak/ukrainian-commemorative-coins-api"
+  "homepage": "https://github.com/dmytroyarmak/ukrainian-commemorative-coins-api",
+  "devDependencies": {
+    "chai": "^3.3.0",
+    "mocha": "^2.3.3"
+  }
 }
